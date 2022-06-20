@@ -1,5 +1,4 @@
 # react-native-zipcode-validation
-Validate United States Zipcode  
 
 # Versions
 - JDK : 18.0.1.1
@@ -17,3 +16,13 @@ Validate United States Zipcode
 - Install node_modules by **yarn install**
 - cd ios, pod install
 - npx react-native run-ios
+
+# Third party libraries
+- Redux
+- React Hooks (functional components)
+- React Native Paper for the elements
+- Axios for fetch apis
+- React Native CLI
+
+# Description
+Validate United State zipcode by fetching an api and show the result form.
