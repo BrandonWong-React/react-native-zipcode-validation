@@ -1,2 +1,2 @@
 # react-native-zipcode-validation
-Validate United States Zipcode
+Validate United States Zipcode  
