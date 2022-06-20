@@ -2,11 +2,11 @@
 Validate United States Zipcode  
 
 # Versions
-JDK : 18.0.1.1
-Node Version : 16.14.0
-Yarn Version : 1.22.4
-Android SDK : 31
-Gradle Version : 7.3.3
+- JDK : 18.0.1.1
+- Node Version : 16.14.0
+- Yarn Version : 1.22.4
+- Android SDK : 31
+- Gradle Version : 7.3.3
 
 # Project Setup (Android)
 - Install node_modules by **yarn install**
