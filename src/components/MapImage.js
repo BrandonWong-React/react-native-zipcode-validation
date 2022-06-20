@@ -21,6 +21,7 @@ function MapImage({ latitude, longitude }) {
 
     return (
         <>
+        {/* TODO: Show map image with zoom in & out capabilities */}
             <Card.Cover source={{ uri: imageUrl ? imageUrl : "http://via.placeholder.com/640x360" }} />
             <Card.Actions style={{ alignSelf: 'flex-end' }}>
                 <Button onPress={onClickZoomIn} icon="magnify-plus-outline"></Button>

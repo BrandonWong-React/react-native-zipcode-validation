@@ -2,7 +2,6 @@ import { API_URL, MAP_IMAGE_API_URL } from "./const";
 import axios from 'axios';
 
 export const getZipcodeInformation = async (zipcode) => {
-    //TODO:  change backend api url and params
     try {
         const response = await axios.get(`${API_URL}/${zipcode}`)
         return response.data;
